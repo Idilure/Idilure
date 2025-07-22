@@ -1,14 +1,14 @@
 <h1 align="center"> Idil Ure
 <p align="center">
  <a href="[Your Website URL]">Website</a> •
- <a href="[LinkedIn URL]">LinkedIn</a> •
+ <a href="[www.linkedin.com/in/idil-üre]">LinkedIn</a> •
  <a href="[Twitter URL]">Twitter</a>
 </p>
 ---
 ## About Me
 I'm passionate about XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ---
-## Skills & Tools
+Skills & Tools
 - Leadership
 - Management
 - Technical to non-technical
