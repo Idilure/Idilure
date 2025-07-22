@@ -4,8 +4,8 @@
  <a href="[www.linkedin.com/in/idil-üre]">LinkedIn</a> •
  <a href="[Twitter URL]">Twitter</a>
 </p>
----
-About Me
+----
+##About Me
 I'm passionate about XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ---
 Skills & Tools
