@@ -4,11 +4,14 @@
  <a href="[www.linkedin.com/in/idil-üre]">LinkedIn</a> •
  <a href="[Twitter URL]">Twitter</a>
 </p>
-----
-##About Me
-I'm passionate about XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ 
 ---
-Skills & Tools
+## About Me
+
+I'm passionate about XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+---
+## Skills & Tools
 - Leadership
 - Management
 - Technical to non-technical
