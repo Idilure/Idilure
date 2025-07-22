@@ -2,7 +2,6 @@
 <p align="center">
  <a href="[Your Website URL]">Website</a> •
  <a href="[www.linkedin.com/in/idil-üre]">LinkedIn</a> •
- <a href="[Twitter URL]">Twitter</a>
 </p>
  
 ---
@@ -34,10 +33,7 @@ You can find me on the web or reach out for collaboration and discussions on var
 
 ---
 ## GitHub Stats
-![Your GitHub stats](https://github-readmestats.vercel.app/api?username=bkaddoum&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/toplangs/?username=bkaddoum&layout=compact)
----
-## Visitors
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bkaddoum.bkaddoum)
+
+
 ---
 ```markdown
