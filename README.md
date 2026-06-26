@@ -6,9 +6,7 @@
  
 ---
 ## About Me
-
-I'm passionate about XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+.
 ---
 ## Skills & Tools
 - Leadership
